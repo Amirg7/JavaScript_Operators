@@ -34,7 +34,7 @@ let lastName = "Chan";
 - What is the value of: a + str2?
 - What is the value of: a + isPresent?
 - What is the value of: a + firstName?
-- What is the value of: a + lastName?
+- What is the value of: a + firstName?
 
 Use the code above to test and print the results.
 
